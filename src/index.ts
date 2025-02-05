@@ -1,4 +1,5 @@
 export { generateOnRampURL } from './onramp/generateOnRampURL';
+export { generateOffRampURL } from './offramp/generateOffRampURL';
 export { initOnRamp } from './onramp/initOnRamp';
 export type { InitOnRampParams } from './onramp/initOnRamp';
 export type { CBPayInstanceType } from './utils/CBPayInstance';
